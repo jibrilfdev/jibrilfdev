@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Operating Systems.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 Reach me at jibrilf@lmtlss.dev
-- 😄 Pronouns: He/him
+<!-- - 😄 Pronouns: He/him -->
 <!-- - ⚡ Fun fact: ... -->
 
 <!---
